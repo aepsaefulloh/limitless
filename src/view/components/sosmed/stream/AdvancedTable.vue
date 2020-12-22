@@ -7,12 +7,12 @@
         <span class="card-label font-weight-bolder text-dark"
           >Post Populer</span
         >
-        <span class="text-muted mt-3 font-weight-bold font-size-sm"
+        <span class="text-muted mt-3 font-weight-bold font-size-md"
           >Post dengan engagement terbanyak</span
         >
       </h3>
       <div class="card-toolbar">
-        <a href="#" class="btn btn-outline-info font-weight-bolder font-size-sm"
+        <a href="#" class="btn btn-outline-info font-weight-bolder font-size-md"
           >Export</a
         >
       </div>
@@ -46,7 +46,7 @@
                   <td style="max-width: 200px">
                     <a
                       href="#"
-                      class="text-dark-75 font-weight-bolder text-hover-primary mb-2 font-size-sm"
+                      class="text-dark-75 font-weight-bolder text-hover-primary mb-2 font-size-md"
                       >{{ item.name }}</a
                     ><span class="text-muted font-weight-bold d-block">{{
                       item.caption
